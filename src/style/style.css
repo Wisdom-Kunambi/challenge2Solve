@@ -67,3 +67,27 @@
 }
 
 /* End Section Four */
+
+
+/* Section Ten - Media Queries */
+@media (max-width: 767px) {
+    .card-body-content {
+      padding-right: 15px !important;
+      padding-left: 15px !important;
+    }
+  
+    .img-fluid-img {
+      margin-top: 40px !important;
+      margin-right: 150px !important;
+    }
+  
+    .row-design.g-0-design {
+      flex-direction: column !important;
+    }
+  
+    .col-design {
+      margin-top: 20px;
+    }
+  }
+  
+  /* End Section Ten */
