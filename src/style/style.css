@@ -118,3 +118,18 @@
   }
   
   /* End Section Eleven */
+
+  /* Section Twelve */
+  .card-twelve {
+    border: none;
+  }
+
+
+  @media (max-width: 767px) {
+    .img-fluid-img2 {
+        margin-top: -130px !important;
+        margin-left: 14px !important;
+      }
+  }
+
+  /* End Section Twelve */
