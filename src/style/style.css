@@ -133,3 +133,13 @@
   }
 
   /* End Section Twelve */
+
+  /* Section Thirteen */
+    @media (max-width: 767px) {
+        .img-fluid-img3 {
+            margin-left: 280px !important;
+            margin-top: -130px !important;
+        }
+    }
+
+  /* End Section Thirteen */
